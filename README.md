@@ -72,14 +72,16 @@ After it's finished, go to Network and change the option to "Bridge Adapter":
 
 
 Restart the machine:
-![image](https://github.com/samerkhateeb/DVWA/assets/55295850/bab90045-410d-487f-9e89-3ef0bf56d292)
+![image](https://github.com/samerkhateeb/DVWA/assets/55295850/3f5a7aa3-1bf8-4af0-af79-98e681262b90)
+
 
 Select the first option this  time:
 ![image](https://github.com/samerkhateeb/DVWA/assets/55295850/b3580a53-da27-494f-84c2-37b953a44480)
 
 whent the page opened, type ifconfig
 
-![image](https://github.com/samerkhateeb/DVWA/assets/55295850/6179fdc7-d266-4c5f-9de2-8e6d88e44eaa)
+![image](https://github.com/samerkhateeb/DVWA/assets/55295850/8c5b6fb1-4d38-49dd-b695-57bfb8e819ab)
+
 
 then you should find your IP address, type the url:
 
