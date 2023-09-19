@@ -48,7 +48,8 @@ Now, we need to start and set the machine:
 
 Next, wait 15 seconds until this load finishes.
 
-![image](https://github.com/samerkhateeb/DVWA/assets/55295850/a24420f8-1a60-49b4-be04-8bec1017d087)
+![image](https://github.com/samerkhateeb/DVWA/assets/55295850/b84a39ba-dff0-493b-b5bf-7b0f5da1c75a)
+
 
 Now, click on the second option "Install Start the installer directory":
 
@@ -64,7 +65,8 @@ Type the password: password
 Wait until the setup is completed
 
 
-![image](https://github.com/samerkhateeb/DVWA/assets/55295850/faee5296-ecd6-477b-8e98-4f1dff17d0e3)
+![image](https://github.com/samerkhateeb/DVWA/assets/55295850/20ae1db1-d4d3-4b46-bc45-2ca38a7af71b)
+
 
 After it's finished, go to Network and change the option to "Bridge Adapter":
 
